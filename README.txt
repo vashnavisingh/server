@@ -19,7 +19,7 @@ Enter the working directory SEPIa and follow the intersections below.
 
 1. Firstly, the users have to precompute all the features for the predicted chain:
 Use the instructions of how to calculate all the features in the folder “Features”. For every feature there is a separate text file with information.
-Prepare a cvs file with all the features. Add all the values in the given template “features.csv” file.
+Prepare a csv file with all the features. Add all the values in the given template “features.csv” file.
 In the column “State” add the value 99 for all the residues of your sequence (for your help see the example.csv file or the .csv file in the test folder).
 
 
