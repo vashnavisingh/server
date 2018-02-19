@@ -50,3 +50,6 @@ Output:
 The output will be displayed in the folder “prediction”. You will find a cvs file with the epitope prediction, where:
 Epitope residues = 1 and Non-epitope residues = 0
 	
+CITATIONS
+For publication of results, please cite:
+Dalkas GA, Rooman M: SEPIa, a knowledge-driven algorithm for predicting conformational B-cell epitopes from the amino acid sequence. BMC Bioinformatics 2017, 18(1).
